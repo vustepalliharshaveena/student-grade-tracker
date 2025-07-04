@@ -16,7 +16,7 @@ The objective of this project is to develop a simple Java application that allow
 # Technologies Used
 - Java (console application)
 - GitHub for version control
-- IDE: IntelliJ / VS Code / Eclipse
+- IDE: VS Code
 # Project Files
 - `Student.java` – class representing a student
 - `StudentGradeTracker.java` – main program logic
